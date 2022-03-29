@@ -1,6 +1,7 @@
 ---
 - name: Deploy a jar file
-  hosts: all
+  hosts: ribhu
+  remote_user: dheer009
   tasks:
     - name: Copy jar file to home directory
       copy:
