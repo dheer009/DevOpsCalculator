@@ -1,2 +1,2 @@
 [docker]
-172.17.0.3 ansible_ssh_pass=user1 ansible_user=user1 
+172.16.133.40 ansible_ssh_pass=12345678 ansible_user=dheer
